@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?> <!-- Prolog -->
+<!-- Wurzelelement: <mindmap> -->
+<mindmap>
+    <knoten id="1" form="Quadrat" farbe="blau" beschriftung="Vorlesung">
+        <!--
+        Richtung der Kante mit "zu" bezeichnet, bedeutet: Start am aktuellen
+        Knoten (knoten mit id=1) bis zum Knoten mit id innerhalb von zu=„id“..
+        -->
+        <kante zu="2" farbe="schwarz" />
+        <kante zu="3" farbe="schwarz" />
+        <kante zu="4" farbe="schwarz" />
+        <kante zu="5" farbe="schwarz" />
+    </knoten>
+    <knoten id="2" form="rund" farbe="grün" beschriftung="Kapitel 1" />
+    <knoten id="3" form="rund" farbe="grün" beschriftung="Kapitel 2" />
+    <knoten id="4" form="rund" farbe="grün" beschriftung="Kapitel 3" />
+    <knoten id="5" form="rund" farbe="grün" beschriftung="Kapitel 4" />
+</mindmap>

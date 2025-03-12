@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Nachricht id="msg-q05|pdf-485jfd">
+    <!-- Referenz auf die ursprüngliche Nachricht -->
+    <AntwortAuf>msg-q04|pdf-485jfd</AntwortAuf>
+    <Absender>Nutzer1234</Absender>
+    <Datum>2024-11-26T11:10:00</Datum>
+    <Inhalt>
+        <Text>Hallo Welt!</Text>
+        <Icon typ="Geist"/>
+        <!-- Icon alternativ: <Icon>👻</Icon> -->
+    </Inhalt>
+    <!-- Hashtagsbereich zur Nachricht -->
+    <Hashtags>
+        <!-- Einzelner Tag -->
+        <tag>#examples</tag>
+        <tag>#hallo-welt</tag>
+        <tag>#wow</tag>
+        <tag>#fabulous</tag>
+    </Hashtags>
+</Nachricht>

@@ -1,0 +1,14 @@
+Vorname: Jorge Andres
+Nachname: Picon Colmenares
+
+Hinweise:
+
++ Da dies meine erste Erfahrung mit php, XML und XSL ist, habe ich als Hilfe Google(Stackoverflow,
+andere Seiten, Youtube) benutzt, um bestimmte Aufgaben im Code zu implementieren.
+
++ ChatGPT wurde auch in einigen Fällen verwendet, um bestimmte Funktionen zu überprüfen und zu
+verbessern.
+
++ Meine Entwicklungsumgebung war Intellij IDEA (meine übliche Umgebung), das XML- und XSL-Plugin
+implementierte. Die Server-Implementierung wurde also direkt von der IDE bereitgestellt und es
+bestand keine Notwendigkeit, XAMPP zu verwenden. Ich habe troztdem XAMPP am Ende implementiert, um zu testen.
